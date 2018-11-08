@@ -137,8 +137,9 @@ Hypo Chrysos by Marco Donnarumma
 ---
 Most biosignals are either electrically weak or acoustically weak and they all are fairly complex, so they require heavy amplification, are prone to noise and require extensive digital signal processing (DSP) before they can be used.
 ---
-### Example QRS complex
-this is one heartbeat
+## Example QRS complex
+this is electrical potential differential of one complete heartbeat
+
 ![QRS complex](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/QRS_complex.png/220px-QRS_complex.png)
 ---
 Biofeedback is the process of giving the user stimuli that are synchronized to biosignals. The user is instrumented with some kind of measurement device that provide activity on a biological function of the user and a stimulus is generated from that signal that is then fed back to the user. It is a technique to train users to gain greater control of the physiological functions of their bodies. Some meditation apps use this principle to enable people to gain greater control over their minds.
