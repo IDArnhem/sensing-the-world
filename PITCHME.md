@@ -22,8 +22,8 @@ setup your breadboard
 ### code
 ###### reading the LDR sensor with Arduino
 ---
-## CHOICE
-#### of sensors
+## CHOOSING A SENSOR
+there are many different kinds of sensors, and the field is expanding constantly, here's a brief selection of the most commonly used sensors
 ---
 ### Distance
 - [Ultrasonic rangefinder](https://www.google.com/search?q=Ultrasonic+sensor)
@@ -53,10 +53,11 @@ setup your breadboard
 - Gyroscope
 - IMU (Inertial motion unit, 9-DoF)
 ---
+IMU-based motion capture and digital scenography
 ![YCAM Awareness in Motion](https://player.vimeo.com/video/61942488)
 ---
 ### Light
-- LDR
+- LDR (light dependent resistor)
 - Flame sensor
 - UV index sensor
 - Color sensor (RGB)
