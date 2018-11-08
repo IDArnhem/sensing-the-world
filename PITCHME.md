@@ -107,15 +107,15 @@ Weather thingy by Adrian Kaeser
 ### Biosignals
 Are kinds of signals that can be (continually) measured and monitored from biological beings. The term biosignal is often used to mean bio-electrical signal but in fact, biosignal refers to both electrical and non-electrical signals.
 ---
-### Biosignals (electrical)
+### Biosignals: electrical measurement (aka electrophysiology)
 - [EEG (electroencephalogram)](https://www.google.com/search?&q=EEG)
 - EKG/ECG (electrocardiogram) 
-- EMG (electromyographer)
+- EMG (electromyography)
 - Respiration
 - Goniometer (position / angle)
 - GSR (galvanic skin response, aka EDA electro dermal activity)
 ---
-### Biosignals (non-electrical, e.g. acustic)
+### Biosignals: non-electrical (e.g. acustic)
 - Breathing rhythm (lungs)
 - Pulse oxymeter (pulse / light) aka [PPG photoplethysmography](https://www.google.com/search?q=ppg+sensor&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg2vSDo8TeAhWtPOwKHZF2AtoQ_AUIDigB&biw=1099&bih=612)
 - Muscles (Xth sense)
@@ -123,6 +123,9 @@ Are kinds of signals that can be (continually) measured and monitored from biolo
 - Ultrasound (baby's heart monitor)
 - Heart
 - Gut
+---
+For medical applications electrophysiology is more widely used, but acoustic methods can be more
+effective in other contexts, such as dealing with phobic reactions for example.
 ---
 Marco Donnarumma scholar, inventor, performer and artist. Developed the Xth Sense, a music instrument that uses the acoustic signals of the artist's muscles and processes them using sound design tools to produce synthesized music
 ![Marco Donnarumma](https://player.vimeo.com/video/130620543)
@@ -134,6 +137,8 @@ Most biosignals are either electrically weak or acoustically weak and they all a
 ---
 ### Example QRS complex
 ![QRS complex](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/QRS_complex.png/220px-QRS_complex.png)
+---
+Biofeedback is the process of giving the user stimuli that are synchronized to biosignals. The user is instrumented with some kind of measurement device that provide activity on a biological function of the user and a stimulus is generated from that signal that is then fed back to the user. It is a technique to train users to gain greater control of the physiological functions of their bodies. Some meditation apps use this principle to enable people to gain greater control over their minds.
 ---
 ### Brain activity
 - [MUSE headband](https://choosemuse.com/)
