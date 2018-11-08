@@ -129,7 +129,7 @@ non-electrical signals (e.g. acustic)
 For medical applications electrophysiology is more widely used, but acoustic methods can be more
 effective in other contexts, such as dealing with phobic reactions for example.
 ---
-Marco Donnarumma scholar, inventor, performer and artist. Developed the Xth Sense, a music instrument that uses the acoustic signals of the artist's muscles and processes them using sound design tools to produce synthesized music
+Marco Donnarumma scholar, inventor, performer and artist. Developed the Xth Sense, a music instrument that uses the acoustic signals originating from the artist's muscles and processes them using sound design tools to produce synthesized music
 ![Marco Donnarumma](https://player.vimeo.com/video/130620543)
 ---
 Hypo Chrysos by Marco Donnarumma
