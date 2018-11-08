@@ -107,7 +107,7 @@ Weather thingy by Adrian Kaeser
 ### Biosignals
 Are kinds of signals that can be (continually) measured and monitored from biological beings. The term biosignal is often used to mean bio-electrical signal but in fact, biosignal refers to both electrical and non-electrical signals.
 ---
-### Biosignals: 
+### Biosignals
 measuring electrical potentials (aka electrophysiology)
 - [EEG (electroencephalogram)](https://www.google.com/search?&q=EEG)
 - EKG/ECG (electrocardiogram) 
