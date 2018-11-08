@@ -107,7 +107,8 @@ Weather thingy by Adrian Kaeser
 ### Biosignals
 Are kinds of signals that can be (continually) measured and monitored from biological beings. The term biosignal is often used to mean bio-electrical signal but in fact, biosignal refers to both electrical and non-electrical signals.
 ---
-### Biosignals: electrical measurement (aka electrophysiology)
+### Biosignals: 
+measuring electrical potentials (aka electrophysiology)
 - [EEG (electroencephalogram)](https://www.google.com/search?&q=EEG)
 - EKG/ECG (electrocardiogram) 
 - EMG (electromyography)
@@ -115,7 +116,8 @@ Are kinds of signals that can be (continually) measured and monitored from biolo
 - Goniometer (position / angle)
 - GSR (galvanic skin response, aka EDA electro dermal activity)
 ---
-### Biosignals: non-electrical (e.g. acustic)
+### Biosignals
+non-electrical signals (e.g. acustic)
 - Breathing rhythm (lungs)
 - Pulse oxymeter (pulse / light) aka [PPG photoplethysmography](https://www.google.com/search?q=ppg+sensor&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg2vSDo8TeAhWtPOwKHZF2AtoQ_AUIDigB&biw=1099&bih=612)
 - Muscles (Xth sense)
