@@ -21,6 +21,18 @@ setup your breadboard
 ---
 ### code
 ###### reading the LDR sensor with Arduino
+```
+void setup() {
+  Serial.begin(9600);
+  pinMode(A0, INPUT); // let the computer gods know that we shall use A0 as our sensor input pin
+}
+
+void loop() {
+  int value = analogRead(A0);   // read the input on pin A0
+  Serial.println(value);
+  delay(20);        // this delay determines the "sampling rate"
+}
+```
 ---
 ## CHOOSING A SENSOR
 there are many different kinds of sensors, and the field is expanding constantly, here's a brief selection of the most commonly used sensors
