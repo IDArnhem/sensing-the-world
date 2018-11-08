@@ -28,7 +28,7 @@ void setup() {
 }
 
 void loop() {
-  int value = analogRead(A0);   // read the input on pin A0
+  int value = analogRead(A0);   // read the sensor value on pin A0
   Serial.println(value);
   delay(20);        // this delay determines the "sampling rate"
 }
