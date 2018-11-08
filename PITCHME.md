@@ -142,7 +142,7 @@ this is the profile of an electrical potential differential for one complete hea
 
 ![QRS complex](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/QRS_complex.png/220px-QRS_complex.png)
 ---
-Biofeedback is the process of giving the user stimuli that are dependent on biosignals. The user is instrumented with some kind of measurement device that probe activity on some biological function, and a stimulus is generated from that signal, that is then fed back to the user. It is a technique to train users to gain greater control of the physiological functions of their bodies. Some meditation apps use this principle to enable people to gain greater control over their minds.
+Biofeedback is the process of giving the user stimuli that are dependent on biosignals. The user is instrumented with some kind of measurement device that probes the activity of some biological function, and a stimulus is generated from that signal that is then fed back to the user. It is a technique to train users to gain greater control over their physiological functions. Some meditation apps use this principle to enable people to gain greater control over their minds, it is also used in the treatment of phobias, breathing problems and other phenomena that have psychosomatic manifestations.
 ---
 ### Brain activity
 - [MUSE headband](https://choosemuse.com/)
