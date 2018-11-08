@@ -138,7 +138,7 @@ Hypo Chrysos by Marco Donnarumma
 Most biosignals are either electrically weak or acoustically weak and they all are fairly complex, so they require heavy amplification, are prone to noise and require extensive digital signal processing (DSP) before they can be used.
 ---
 ## Example QRS complex
-this is electrical potential differential of one complete heartbeat
+this is the profile of an electrical potential differential for one complete heartbeat
 
 ![QRS complex](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/QRS_complex.png/220px-QRS_complex.png)
 ---
