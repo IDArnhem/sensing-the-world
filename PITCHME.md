@@ -113,18 +113,18 @@ Are kinds of signals that can be (continually) measured and monitored from biolo
 - EMG (electromyographer)
 - Respiration
 - Goniometer (position / angle)
-- Pulse oxymeter (pulse / light) aka [PPG photoplethysmography](https://www.google.com/search?q=ppg+sensor&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg2vSDo8TeAhWtPOwKHZF2AtoQ_AUIDigB&biw=1099&bih=612)
 - GSR (galvanic skin response, aka EDA electro dermal activity)
+---
+### Biosignals (non-electrical, e.g. acustic)
+- Breathing rhythm (lungs)
+- Pulse oxymeter (pulse / light) aka [PPG photoplethysmography](https://www.google.com/search?q=ppg+sensor&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjg2vSDo8TeAhWtPOwKHZF2AtoQ_AUIDigB&biw=1099&bih=612)
+- Muscles (Xth sense)
 - Esthetoscope (sound)
 - Ultrasound (baby's heart monitor)
----
-### Biosignals (acustic)
-- Breathing rhythm (lungs)
-- Muscles
 - Heart
 - Gut
 ---
-Marco Donnarumma scholar, performer and artist, developed the Xth Sense, a music instrument that uses the acoustic signals of the artist's muscles and processes them using sound design tools to produce synthesized music
+Marco Donnarumma scholar, inventor, performer and artist. Developed the Xth Sense, a music instrument that uses the acoustic signals of the artist's muscles and processes them using sound design tools to produce synthesized music
 ![Marco Donnarumma](https://player.vimeo.com/video/130620543)
 ---
 Hypo Chrysos by Marco Donnarumma
