@@ -113,7 +113,6 @@ measuring electrical potentials (aka electrophysiology)
 - EKG/ECG (electrocardiogram) 
 - EMG (electromyography)
 - Respiration
-- Goniometer (position / angle)
 - GSR (galvanic skin response, aka EDA electro dermal activity)
 ---
 ### Biosignals
