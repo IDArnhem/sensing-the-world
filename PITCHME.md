@@ -15,10 +15,12 @@ We can classify them according to the kind of signal that they produce: (let's i
     - how much of the actual poop happened
     - it is often a number between 0 and 1024
 ---
-#### Light-level sensor
-setup your board
-![LDR sensor](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_450/v1506369513/ldr_arduino_ppac8t.jpg)
-the resistor is a 100K value
+##### Light-level sensor
+
+setup your board (the resistor is a 100K value)
+
+![LDR sensor](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_400/v1506369513/ldr_arduino_ppac8t.jpg)
+
 ---
 ### code
 ###### reading the LDR sensor with Arduino
