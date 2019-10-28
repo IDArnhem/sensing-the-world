@@ -7,7 +7,7 @@ A sensor is an electronic device that can transform a physical property of our w
 The only thing that you need to know about a sensor for now is that it is "a value that moves through time". People in finance call that a "ticker" in EE it's called a "signal" in electronic music they call it a "control signal" but in all of them they mean "a value that moves through time".
 ---
 ## There are (for now) two types of sensors
-We can classify them according to the kind of signal that they produce: (and let's imagine a hypothetical sensor for dog poop)
+We can classify them according to the kind of signal that they produce: (let's imagine a hypothetical sensor for dog poop)
   - digital (two states)
     - poop happened (HIGH = 1)
     - poop didn't happen (LOW = 0)
@@ -15,9 +15,10 @@ We can classify them according to the kind of signal that they produce: (and let
     - how much of the actual poop happened
     - it is often a number between 0 and 1024
 ---
-### Light-level sensor
-setup your breadboard
+#### Light-level sensor
+setup your board
 ![LDR sensor](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_450/v1506369513/ldr_arduino_ppac8t.jpg)
+the resistor is a 100K value
 ---
 ### code
 ###### reading the LDR sensor with Arduino
